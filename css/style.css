@@ -1,0 +1,235 @@
+body {
+    background: #f4f4f4;
+}
+.navbar {
+    border-radius: 0;
+    border: 0;
+    min-height: 33px;
+    margin-bottom: 0;
+}
+.navbar-nav > li a, .navbar-brand {
+    height: 43px;
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+}
+#header{
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+#header .create {
+    padding-top: 20px;
+}
+.edits {
+  margin-bottom: 5px;
+}
+/* breadcrumb */
+
+#breadcrumb {
+    margin-top: 10px;
+}
+#breadcrumb .breadcrumb {
+    background: #ccc;
+    color: #333;
+}
+
+.create a {
+    color: #333;
+}
+
+.main-color-bg {
+    background: #e74c3c !important;
+    border-color: #c0392b !important;
+    color: #fff !important;
+}
+
+/* Footer */
+#main-footer {
+    margin-top: 50px;
+}
+#main-footer .bg-dark{
+    background: #333;
+    color: #fff;
+}
+#main-footer p {
+    padding: 20px;
+    margin: 0;
+}
+
+
+.navbar-default {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+  }
+  .navbar-default .navbar-brand {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-brand:hover,
+  .navbar-default .navbar-brand:focus {
+    color: #ffbbbc;
+  }
+  .navbar-default .navbar-text {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-nav > li > a:hover,
+  .navbar-default .navbar-nav > li > a:focus {
+    color: #ffbbbc;
+  }
+  .navbar-default .navbar-nav > .active > a,
+  .navbar-default .navbar-nav > .active > a:hover,
+  .navbar-default .navbar-nav > .active > a:focus {
+    color: #ffbbbc;
+    background-color: #c0392b;
+  }
+  .navbar-default .navbar-nav > .open > a,
+  .navbar-default .navbar-nav > .open > a:hover,
+  .navbar-default .navbar-nav > .open > a:focus {
+    color: #ffbbbc;
+    background-color: #c0392b;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: #c0392b;
+  }
+  .navbar-default .navbar-toggle:hover,
+  .navbar-default .navbar-toggle:focus {
+    background-color: #c0392b;
+  }
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+  }
+  .navbar-default .navbar-collapse,
+  .navbar-default .navbar-form {
+    border-color: #ecf0f1;
+  }
+  .navbar-default .navbar-link {
+    color: #ecf0f1;
+  }
+  .navbar-default .navbar-link:hover {
+    color: #ffbbbc;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    background: #f4f4f4;
+}
+
+.navbar {
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.navbar-nav > li a, .navbar-brand {
+    padding-top: 6px !important;
+    padding-bottom: 0 !important;
+    height: 33px;
+}
+  
+  .main-color-bg {
+      background: #e74c3c !important;
+      border-color: #c0392b !important;
+      color: #fff !important;
+  }
+
+  /* Panels */
+  /* .dash-box {
+      text-align: center;
+  } */
+  /* Header
+#header {
+    background-color: #333;
+    color: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#header .create {
+    padding-top: 20px;
+} */
+
+    /* Breadcrumb */
+
+    /* .breadcrumb {
+        background: #ccc;
+        color: #333;
+    }
+    .breadcrumb a {
+        color: #333;
+    } */
+
+    /* Wells */
+
+    /* .progress-bar {
+        background: #333;
+        color: #fff;
+    } */
+
+    /* Login */
+
+    /* #login {
+        margin-top: 30px;
+    }
+
+    .btn-default {
+      background: #e74c3c !important;
+      border-color: #c0392b !important;
+      color: #fff !important;
+    }
+    .btn-default:hover {
+        opacity: 0.8;
+    } */
+    /* Footer */
+
+    /* #footer {
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 30px;
+        margin-top: 30px;
+    } */
+  /* Media Queries */
+
+  
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+      color: #ecf0f1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+      color: #ffbbbc;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+      color: #ffbbbc;
+      background-color: #c0392b;
+    }
+  } */
+  
